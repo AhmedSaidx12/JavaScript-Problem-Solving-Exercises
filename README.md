@@ -1,26 +1,60 @@
-# JavaScript Conditional Practice
+# JavaScript Problem Solving – Control Flow & Basics
 
-This repository contains small JavaScript practice projects focusing on conditional statements (if / else).
+## 📖 Description
 
-## Projects Included
+This project is a collection of 18 problem-solving exercises built using HTML, CSS, and JavaScript. The goal of the project is to practice and demonstrate core JavaScript fundamentals, especially:
 
-### 1. Check Temperature
-- Takes a temperature value
-- Displays the result based on the entered temperature
+if / else conditions
 
-### 2. Even or Odd Number Checker
-- Checks whether a number is even or odd
-- Displays the result dynamically
+for loops
 
-### 3. Validate Number for University Entry
-- Checks if a number is even or odd
-- Allows university input if the number is greater than 20
+Arrays
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+Basic input/output handling in the browser
 
-## Purpose
-This project is built for learning and practicing JavaScript conditions and DOM manipulation.
+
+Each problem is implemented as a small interactive section where the user can enter values, click a button, and immediately see the result.
+
+The project is designed for learning and practice purposes, especially for beginners in JavaScript.
+
+
+---
+
+## 🧩 Problems Included (Examples)
+
+Check if a number exists between 1 and 100
+
+Find the largest number among three inputs
+
+Display number of days in a month
+
+Simple calculator ( + , − , × , ÷ )
+
+Sum of even numbers
+
+Other logic-based problems using loops and arrays
+
+
+
+---
+
+## 🛠️ Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript (Vanilla JS)
+
+
+
+
+## 🎯 Purpose of the Project
+
+Improve problem-solving skills
+
+Practice JavaScript fundamentals
+
+Apply logic using real UI inputs
+
+Prepare for technical interviews and coding challenges
