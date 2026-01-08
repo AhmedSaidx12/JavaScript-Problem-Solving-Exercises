@@ -40,11 +40,13 @@ Other logic-based problems using loops and arrays
 
 ## 🛠️ Technologies Used
 
-HTML5
+HTML
 
-CSS3
+CSS
 
-JavaScript (Vanilla JS)
+Bootstrap
+
+JavaScript 
 
 
 
